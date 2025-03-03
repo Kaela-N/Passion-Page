@@ -1,0 +1,105 @@
+.center {
+    text-align:center;
+}
+
+.imgcards {
+    display:flex;
+  flex-direction:row;
+  flex-wrap: wrap;
+  justify-content:space-around;
+  align-items:center;
+  align-content:center;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:space-around
+
+}
+
+.desc {
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    border-style: solid;
+    border-color: #695958;
+    border-radius: 1vw;
+    width:17vw;
+    font-family:"Sour Gummy", sans-serif;
+    font-size:1vw;
+}
+
+img {
+    border-style: solid;
+    border-color: #695958;
+    border-radius: 1vw;
+    width:17vw;
+    height:22vw
+}
+
+body {
+    background-color:#FFE7D6;
+    color:#695958;
+    padding-left:1vw;
+    padding-right:1vw;
+}
+
+
+h1 {
+    font-family:"siracha", cursive;
+    font-size:3vw;
+}
+
+h2 {
+    font-family:"Delius Unicase", cursive;
+    font-size:1vw;
+    color:#002741
+}
+
+h3 {
+    font-size:2.25vw;
+}
+
+h4 {
+    font-family:"delius unicase", cursive;
+    font-size:1vw;
+}
+
+h5 {
+    font-family:"Delius Unicase", cursive;
+    font-size:1.5vw;
+    color:#002741
+}
+
+li {
+    padding-right:0.5vw
+}
+
+p {
+    font-family:"Sour Gummy", sans-serif;
+    font-size:1.25vw;
+}
+
+
+.sriracha-regular {
+    font-family: "Sriracha", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.delius-unicase-bold {
+    font-family: "Delius Unicase", cursive;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+.sour-gummy {
+    font-family: "Sour Gummy", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
