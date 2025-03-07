@@ -39,6 +39,66 @@ img {
     height:22vw
 }
 
+img:hover {
+    border-style:double;
+    border-color:#674846;
+    border-radius:1vw;
+}
+
+.anthurium:active {
+    border-style:double;
+    border-color:#b3533d;
+    border-radius:1vw;
+}
+
+.marigold:active {
+    border-style:double;
+    border-color:#cb8154;
+    border-radius:1vw;
+}
+
+.sunflower:active {
+    border-style:double;
+    border-color:#cb8f47;
+    border-radius:1vw;
+}
+
+.hellebore:active {
+    border-style:double;
+    border-color:#7f8f76;
+    border-radius:1vw;
+}
+
+.hydrangea:active {
+    border-style:double;
+    border-color:#6e94a5;
+    border-radius:1vw;
+}
+
+.alstroemeria:active {
+    border-style:double;
+    border-color:#d4593b;
+    border-radius:1vw;
+}
+
+.tulip:active {
+    border-style:double;
+    border-color:#bfc1c2;
+    border-radius:1vw;
+}
+
+.lily:active {
+    border-style:double;
+    border-color:#afc0d1;
+    border-radius:1vw;
+}
+
+.baby:active {
+    border-style:double;
+    border-color:#9fb3ca;
+    border-radius:1vw;
+}
+
 body {
     background-color:#FFE7D6;
     color:#695958;
